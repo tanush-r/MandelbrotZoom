@@ -3,7 +3,14 @@
 Embark on a mind-bending voyage through the infinite wonders of the Mandelbrot set, a stunning fractal named after mathematician Benoit Mandelbrot. This p5.js project empowers you to dive deep into this mathematical marvel, unveiling hidden complexities and mesmerizing patterns through interactive exploration.
 
 The formula used:
- f c ( z ) = z 2 + c {\displaystyle f_{c}(z)=z^{2}+c}
+ f(z) = z^2 + c
+
+## Outputs
+![output/mandelbrot.gif](output/mandelbrot.gif)<br>
+B&W Generation (sped-up)
+![output/website.png](output/website.png)<br>
+Color Set (with params adjusted)
+
 ## Features
 <ul>
   <li><b>Real-Time Calculations:</b> You can view the Mandelbrot in real time, as the software uses frame by frame calculations to generate the beautiful, recurring fractal structure.</li>
